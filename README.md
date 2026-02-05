@@ -1,5 +1,4 @@
 # git-tutorial
 
 第一行
-第二行
 第三行
